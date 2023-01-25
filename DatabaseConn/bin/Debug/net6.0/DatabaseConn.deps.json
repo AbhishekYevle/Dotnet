@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DatabaseConn/1.0.0": {
+        "dependencies": {
+          "System.Data.SQLite": "1.0.116.0"
+        },
+        "runtime": {
+          "DatabaseConn.dll": {}
+        }
+      },
+      "System.Data.SQLite/1.0.116.0": {
+        "runtime": {
+          "System.Data.SQLite.dll": {
+            "assemblyVersion": "1.0.116.0",
+            "fileVersion": "1.0.116.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DatabaseConn/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Data.SQLite/1.0.116.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

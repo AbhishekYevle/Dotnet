@@ -1,0 +1,6 @@
+ CREATE TABLE student_details(
+   ...> id INT PRIMARY KEY,
+   ...> name TEXT,
+   ...> age INT,
+   ...> field char(10)
+   ...> );
