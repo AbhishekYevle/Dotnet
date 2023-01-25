@@ -1,0 +1,15 @@
+C:\Users\yevlea\Practicals\w3school\bin\Debug\net6.0\w3school.exe
+C:\Users\yevlea\Practicals\w3school\bin\Debug\net6.0\w3school.deps.json
+C:\Users\yevlea\Practicals\w3school\bin\Debug\net6.0\w3school.runtimeconfig.json
+C:\Users\yevlea\Practicals\w3school\bin\Debug\net6.0\w3school.dll
+C:\Users\yevlea\Practicals\w3school\bin\Debug\net6.0\w3school.pdb
+C:\Users\yevlea\Practicals\w3school\obj\Debug\net6.0\w3school.csproj.AssemblyReference.cache
+C:\Users\yevlea\Practicals\w3school\obj\Debug\net6.0\w3school.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yevlea\Practicals\w3school\obj\Debug\net6.0\w3school.AssemblyInfoInputs.cache
+C:\Users\yevlea\Practicals\w3school\obj\Debug\net6.0\w3school.AssemblyInfo.cs
+C:\Users\yevlea\Practicals\w3school\obj\Debug\net6.0\w3school.csproj.CoreCompileInputs.cache
+C:\Users\yevlea\Practicals\w3school\obj\Debug\net6.0\w3school.dll
+C:\Users\yevlea\Practicals\w3school\obj\Debug\net6.0\refint\w3school.dll
+C:\Users\yevlea\Practicals\w3school\obj\Debug\net6.0\w3school.pdb
+C:\Users\yevlea\Practicals\w3school\obj\Debug\net6.0\w3school.genruntimeconfig.cache
+C:\Users\yevlea\Practicals\w3school\obj\Debug\net6.0\ref\w3school.dll
