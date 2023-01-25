@@ -1,0 +1,78 @@
+using System;
+using System.Collections.Generic;
+using System.Data.SQLite;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace data
+{
+  class UserData
+  {
+    public static string Connectionpath = @"URI=file:C:/Users/yevlea/MyPrograms/DatabaseConnection/database/userdata.db";
+    public static void Main(string[] args)
+    {
+      Console.WriteLine("Start Application?");
+      var StartComm = Console.ReadLine();
+      while (StartComm == "start")
+      {
+        // Database.Databaseconnect();
+
+        Console.WriteLine("Enter Command:");
+        var UserCommand = Console.ReadLine();
+
+        if (UserCommand == "create")
+        {
+
+          Database.createTable();
+          Console.WriteLine("Table Created Successfully.");
+        }
+
+        if (UserCommand == "exit")
+        {
+          break;
+        }
+      }
+    }
+  }
+
+  class Database
+  {
+
+
+    public static void Databaseconnect()
+    {
+
+      // using (var sqlcon = new SQLiteConnection(UserData.Connectionpath))
+      // // using var sqlcon = new SQLiteConnection(UserData.Connectionpath);
+      {
+        using (var sqlcon = new SQLiteConnection(UserData.Connectionpath))
+
+          sqlcon.Open();
+
+        Console.WriteLine("Connection Established.");
+
+      }
+
+    }
+
+    public static void createTable()
+    {
+      using var sqlcon = new SQLiteConnection(UserData.Connectionpath);
+
+      using var cmd = new SQLiteCommand(sqlcon);
+      // Console.WriteLine("Enter Table Name:");
+      // var tableName = Console.ReadLine();
+      // Console.WriteLine("First Column is default 'id'.");
+      // Console.WriteLine("Enter Second Column Name:");
+      // var SecondCol = Console.ReadLine();
+      // Console.WriteLine("Enter Third Column Name:");
+      // var ThirdCol = Console.ReadLine();
+
+      // var command = $"CREATE TABLE IF NOT EXISTS " + tableName + "(id INETGER AUTO INCREMENT," + SecondCol + " TEXT, " + ThirdCol + "TEXT); ";
+      cmd.CommandText = "CREATE TABLE IF NOT EXISTS test05(id INETGER AUTO INCREMENT, name TEXT, age TEXT);";
+      cmd.ExecuteNonQuery();
+
+    }
+  }
+}
