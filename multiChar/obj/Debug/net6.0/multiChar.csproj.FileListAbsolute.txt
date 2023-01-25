@@ -1,0 +1,15 @@
+C:\Users\yevlea\Practicals\multiChar\bin\Debug\net6.0\multiChar.exe
+C:\Users\yevlea\Practicals\multiChar\bin\Debug\net6.0\multiChar.deps.json
+C:\Users\yevlea\Practicals\multiChar\bin\Debug\net6.0\multiChar.runtimeconfig.json
+C:\Users\yevlea\Practicals\multiChar\bin\Debug\net6.0\multiChar.dll
+C:\Users\yevlea\Practicals\multiChar\bin\Debug\net6.0\multiChar.pdb
+C:\Users\yevlea\Practicals\multiChar\obj\Debug\net6.0\multiChar.csproj.AssemblyReference.cache
+C:\Users\yevlea\Practicals\multiChar\obj\Debug\net6.0\multiChar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yevlea\Practicals\multiChar\obj\Debug\net6.0\multiChar.AssemblyInfoInputs.cache
+C:\Users\yevlea\Practicals\multiChar\obj\Debug\net6.0\multiChar.AssemblyInfo.cs
+C:\Users\yevlea\Practicals\multiChar\obj\Debug\net6.0\multiChar.csproj.CoreCompileInputs.cache
+C:\Users\yevlea\Practicals\multiChar\obj\Debug\net6.0\multiChar.dll
+C:\Users\yevlea\Practicals\multiChar\obj\Debug\net6.0\refint\multiChar.dll
+C:\Users\yevlea\Practicals\multiChar\obj\Debug\net6.0\multiChar.pdb
+C:\Users\yevlea\Practicals\multiChar\obj\Debug\net6.0\multiChar.genruntimeconfig.cache
+C:\Users\yevlea\Practicals\multiChar\obj\Debug\net6.0\ref\multiChar.dll

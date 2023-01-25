@@ -1,0 +1,15 @@
+C:\Users\yevlea\Practicals\list-queue-stack\bin\Debug\net6.0\list-queue-stack.exe
+C:\Users\yevlea\Practicals\list-queue-stack\bin\Debug\net6.0\list-queue-stack.deps.json
+C:\Users\yevlea\Practicals\list-queue-stack\bin\Debug\net6.0\list-queue-stack.runtimeconfig.json
+C:\Users\yevlea\Practicals\list-queue-stack\bin\Debug\net6.0\list-queue-stack.dll
+C:\Users\yevlea\Practicals\list-queue-stack\bin\Debug\net6.0\list-queue-stack.pdb
+C:\Users\yevlea\Practicals\list-queue-stack\obj\Debug\net6.0\list-queue-stack.csproj.AssemblyReference.cache
+C:\Users\yevlea\Practicals\list-queue-stack\obj\Debug\net6.0\list-queue-stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yevlea\Practicals\list-queue-stack\obj\Debug\net6.0\list-queue-stack.AssemblyInfoInputs.cache
+C:\Users\yevlea\Practicals\list-queue-stack\obj\Debug\net6.0\list-queue-stack.AssemblyInfo.cs
+C:\Users\yevlea\Practicals\list-queue-stack\obj\Debug\net6.0\list-queue-stack.csproj.CoreCompileInputs.cache
+C:\Users\yevlea\Practicals\list-queue-stack\obj\Debug\net6.0\list-queue-stack.dll
+C:\Users\yevlea\Practicals\list-queue-stack\obj\Debug\net6.0\refint\list-queue-stack.dll
+C:\Users\yevlea\Practicals\list-queue-stack\obj\Debug\net6.0\list-queue-stack.pdb
+C:\Users\yevlea\Practicals\list-queue-stack\obj\Debug\net6.0\list-queue-stack.genruntimeconfig.cache
+C:\Users\yevlea\Practicals\list-queue-stack\obj\Debug\net6.0\ref\list-queue-stack.dll
