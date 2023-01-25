@@ -1,0 +1,15 @@
+C:\Users\yevlea\Practicals\trial\bin\Debug\net6.0\trial.exe
+C:\Users\yevlea\Practicals\trial\bin\Debug\net6.0\trial.deps.json
+C:\Users\yevlea\Practicals\trial\bin\Debug\net6.0\trial.runtimeconfig.json
+C:\Users\yevlea\Practicals\trial\bin\Debug\net6.0\trial.dll
+C:\Users\yevlea\Practicals\trial\bin\Debug\net6.0\trial.pdb
+C:\Users\yevlea\Practicals\trial\obj\Debug\net6.0\trial.csproj.AssemblyReference.cache
+C:\Users\yevlea\Practicals\trial\obj\Debug\net6.0\trial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yevlea\Practicals\trial\obj\Debug\net6.0\trial.AssemblyInfoInputs.cache
+C:\Users\yevlea\Practicals\trial\obj\Debug\net6.0\trial.AssemblyInfo.cs
+C:\Users\yevlea\Practicals\trial\obj\Debug\net6.0\trial.csproj.CoreCompileInputs.cache
+C:\Users\yevlea\Practicals\trial\obj\Debug\net6.0\trial.dll
+C:\Users\yevlea\Practicals\trial\obj\Debug\net6.0\refint\trial.dll
+C:\Users\yevlea\Practicals\trial\obj\Debug\net6.0\trial.pdb
+C:\Users\yevlea\Practicals\trial\obj\Debug\net6.0\trial.genruntimeconfig.cache
+C:\Users\yevlea\Practicals\trial\obj\Debug\net6.0\ref\trial.dll
