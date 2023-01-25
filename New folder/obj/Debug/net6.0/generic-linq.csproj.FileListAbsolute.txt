@@ -1,0 +1,15 @@
+C:\Users\yevlea\Practicals\generic-linq\bin\Debug\net6.0\generic-linq.exe
+C:\Users\yevlea\Practicals\generic-linq\bin\Debug\net6.0\generic-linq.deps.json
+C:\Users\yevlea\Practicals\generic-linq\bin\Debug\net6.0\generic-linq.runtimeconfig.json
+C:\Users\yevlea\Practicals\generic-linq\bin\Debug\net6.0\generic-linq.dll
+C:\Users\yevlea\Practicals\generic-linq\bin\Debug\net6.0\generic-linq.pdb
+C:\Users\yevlea\Practicals\generic-linq\obj\Debug\net6.0\generic-linq.csproj.AssemblyReference.cache
+C:\Users\yevlea\Practicals\generic-linq\obj\Debug\net6.0\generic-linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yevlea\Practicals\generic-linq\obj\Debug\net6.0\generic-linq.AssemblyInfoInputs.cache
+C:\Users\yevlea\Practicals\generic-linq\obj\Debug\net6.0\generic-linq.AssemblyInfo.cs
+C:\Users\yevlea\Practicals\generic-linq\obj\Debug\net6.0\generic-linq.csproj.CoreCompileInputs.cache
+C:\Users\yevlea\Practicals\generic-linq\obj\Debug\net6.0\generic-linq.dll
+C:\Users\yevlea\Practicals\generic-linq\obj\Debug\net6.0\refint\generic-linq.dll
+C:\Users\yevlea\Practicals\generic-linq\obj\Debug\net6.0\generic-linq.pdb
+C:\Users\yevlea\Practicals\generic-linq\obj\Debug\net6.0\generic-linq.genruntimeconfig.cache
+C:\Users\yevlea\Practicals\generic-linq\obj\Debug\net6.0\ref\generic-linq.dll

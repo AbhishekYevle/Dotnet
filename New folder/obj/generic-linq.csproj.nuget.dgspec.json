@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yevlea\\Practicals\\MyFirstConsoleApp\\MyFirstConsoleApp.csproj": {}
+    "C:\\Users\\yevlea\\Practicals\\generic-linq\\generic-linq.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yevlea\\Practicals\\MyFirstConsoleApp\\MyFirstConsoleApp.csproj": {
+    "C:\\Users\\yevlea\\Practicals\\generic-linq\\generic-linq.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yevlea\\Practicals\\MyFirstConsoleApp\\MyFirstConsoleApp.csproj",
-        "projectName": "MyFirstConsoleApp",
-        "projectPath": "C:\\Users\\yevlea\\Practicals\\MyFirstConsoleApp\\MyFirstConsoleApp.csproj",
+        "projectUniqueName": "C:\\Users\\yevlea\\Practicals\\generic-linq\\generic-linq.csproj",
+        "projectName": "generic-linq",
+        "projectPath": "C:\\Users\\yevlea\\Practicals\\generic-linq\\generic-linq.csproj",
         "packagesPath": "C:\\Users\\yevlea\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yevlea\\Practicals\\MyFirstConsoleApp\\obj\\",
+        "outputPath": "C:\\Users\\yevlea\\Practicals\\generic-linq\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yevlea\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.308\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }
