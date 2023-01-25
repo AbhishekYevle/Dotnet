@@ -1,0 +1,15 @@
+C:\Users\yevlea\Practicals\safeFile\bin\Debug\net6.0\safeFile.exe
+C:\Users\yevlea\Practicals\safeFile\bin\Debug\net6.0\safeFile.deps.json
+C:\Users\yevlea\Practicals\safeFile\bin\Debug\net6.0\safeFile.runtimeconfig.json
+C:\Users\yevlea\Practicals\safeFile\bin\Debug\net6.0\safeFile.dll
+C:\Users\yevlea\Practicals\safeFile\bin\Debug\net6.0\safeFile.pdb
+C:\Users\yevlea\Practicals\safeFile\obj\Debug\net6.0\safeFile.csproj.AssemblyReference.cache
+C:\Users\yevlea\Practicals\safeFile\obj\Debug\net6.0\safeFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yevlea\Practicals\safeFile\obj\Debug\net6.0\safeFile.AssemblyInfoInputs.cache
+C:\Users\yevlea\Practicals\safeFile\obj\Debug\net6.0\safeFile.AssemblyInfo.cs
+C:\Users\yevlea\Practicals\safeFile\obj\Debug\net6.0\safeFile.csproj.CoreCompileInputs.cache
+C:\Users\yevlea\Practicals\safeFile\obj\Debug\net6.0\safeFile.dll
+C:\Users\yevlea\Practicals\safeFile\obj\Debug\net6.0\refint\safeFile.dll
+C:\Users\yevlea\Practicals\safeFile\obj\Debug\net6.0\safeFile.pdb
+C:\Users\yevlea\Practicals\safeFile\obj\Debug\net6.0\safeFile.genruntimeconfig.cache
+C:\Users\yevlea\Practicals\safeFile\obj\Debug\net6.0\ref\safeFile.dll
