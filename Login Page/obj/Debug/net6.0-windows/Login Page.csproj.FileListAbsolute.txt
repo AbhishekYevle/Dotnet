@@ -1,0 +1,21 @@
+C:\Users\yevlea\WPF Practicals\Login Page\bin\Debug\net6.0-windows\Login Page.exe
+C:\Users\yevlea\WPF Practicals\Login Page\bin\Debug\net6.0-windows\Login Page.deps.json
+C:\Users\yevlea\WPF Practicals\Login Page\bin\Debug\net6.0-windows\Login Page.runtimeconfig.json
+C:\Users\yevlea\WPF Practicals\Login Page\bin\Debug\net6.0-windows\Login Page.dll
+C:\Users\yevlea\WPF Practicals\Login Page\bin\Debug\net6.0-windows\Login Page.pdb
+C:\Users\yevlea\WPF Practicals\Login Page\obj\Debug\net6.0-windows\Login Page.csproj.AssemblyReference.cache
+C:\Users\yevlea\WPF Practicals\Login Page\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\yevlea\WPF Practicals\Login Page\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\yevlea\WPF Practicals\Login Page\obj\Debug\net6.0-windows\Login Page_MarkupCompile.cache
+C:\Users\yevlea\WPF Practicals\Login Page\obj\Debug\net6.0-windows\Login Page_MarkupCompile.lref
+C:\Users\yevlea\WPF Practicals\Login Page\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\yevlea\WPF Practicals\Login Page\obj\Debug\net6.0-windows\Login Page.g.resources
+C:\Users\yevlea\WPF Practicals\Login Page\obj\Debug\net6.0-windows\Login Page.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yevlea\WPF Practicals\Login Page\obj\Debug\net6.0-windows\Login Page.AssemblyInfoInputs.cache
+C:\Users\yevlea\WPF Practicals\Login Page\obj\Debug\net6.0-windows\Login Page.AssemblyInfo.cs
+C:\Users\yevlea\WPF Practicals\Login Page\obj\Debug\net6.0-windows\Login Page.csproj.CoreCompileInputs.cache
+C:\Users\yevlea\WPF Practicals\Login Page\obj\Debug\net6.0-windows\Login Page.dll
+C:\Users\yevlea\WPF Practicals\Login Page\obj\Debug\net6.0-windows\refint\Login Page.dll
+C:\Users\yevlea\WPF Practicals\Login Page\obj\Debug\net6.0-windows\Login Page.pdb
+C:\Users\yevlea\WPF Practicals\Login Page\obj\Debug\net6.0-windows\Login Page.genruntimeconfig.cache
+C:\Users\yevlea\WPF Practicals\Login Page\obj\Debug\net6.0-windows\ref\Login Page.dll
